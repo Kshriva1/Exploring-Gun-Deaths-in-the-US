@@ -6,10 +6,10 @@ The dataset came from [FiveThirtyEight](https://fivethirtyeight.com/), and can b
 
  Here are the first few rows of the dataset:
 
-|year | month | intent | 	police | 	sex | 	age | 	race | 	hispanic | 	place | 	education
-|---- |---- |---- |---- |----|----|----|----|----|----|----
-|1 |	2012 | 	1 |	Suicide |	0 |	M |	34.0 | 	Asian/Pacific Islander |	100 |	Home | 	4.0
-|2 |	2012 |	1 |	Suicide |	0 |	F |	21.0 |	White |	100 |	Street |	3.0
-|3 |	2012 |	1 |	Suicide |	0 |	M |	60.0 |	White |	100 |	Other specified | 	4.0
-|4 |	2012 |	2 |	Suicide |	0 |	M |	64.0 |	White |	100 |	Home |	4.0
-|5 |	2012 |	2 |	Suicide |	0 |	M |	31.0 |	White |	100 |	Other specified | 	2.0
+|year | month | intent | 	police | 	sex | 	age | 	race | 	hispanic | 	place | 	education |
+|---- |---- |---- |---- |----|----|----|----|----|----|
+|1 |	2012 | 	1 |	Suicide |	0 |	M |	34.0 | 	Asian/Pacific Islander |	100 |	Home | 	4.0 |
+|2 |	2012 |	1 |	Suicide |	0 |	F |	21.0 |	White |	100 |	Street |	3.0 |
+|3 |	2012 |	1 |	Suicide |	0 |	M |	60.0 |	White |	100 |	Other specified | 	4.0 |
+|4 |	2012 |	2 |	Suicide |	0 |	M |	64.0 |	White |	100 |	Home |	4.0 | 
+|5 |	2012 |	2 |	Suicide |	0 |	M |	31.0 |	White |	100 |	Other specified | 	2.0|
